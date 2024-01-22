@@ -28,3 +28,13 @@ You could edit and enable "Sync Code" YAML file to let your forked repo keep upd
 **3. Sync Code**
   - Uncomment 'push-branches-master' 3 lines under **`On`** section and commit changes to let the script sync the code once for you.
   - Uncomment 'schedule-cron' 2 lines under **`On`** section and commit changes to let the script sync the code everyday on 3 am[UTC +8]
+
+
+
+## Sponsor
+We are proudly sponsored by DartNode.  DartNode supports our project by providing [mention the specific support they offer, such as infrastructure, services, etc.].
+websize:https://dartnode.com
+
+[![DartNode Logo](https://app.dartnode.com/assets/dash/images/brand/favicon.png)](https://dartnode.com)
+
+Please consider supporting DartNode as they are not only supporting us but also contributing to the open-source community.
